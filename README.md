@@ -1,4 +1,4 @@
-# Peer-to-Peer-Money-Transfer-Application
+# Peer-to-Peer Money Transfer Application
 This was the second capstone project in the Tech Eelvator Java program.
 
 I worked with another student to develop a peer-to-peer money transfer application based on the README.md in the mod2-capstone-blue-t3/18_Capstone/student/java folder.
